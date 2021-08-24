@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anvi Radhakrishna Naik
-- 👀 I see to it, I Learn one new thing every day; coz learning will help focus on the what exists tommrow where it takes you. 
+- 👀 I see to it, I Learn one new thing every day; coz learning will help focus on what exists tommrow , where it takes you. 
 - 🌱 I’m currently in the path of exploring Data Science, Business Intelligence , Digital Visualization. Focus is on data, which helps to get the the required insights and convert it to the business answers. 
 - 📫 You could reach me on https://www.linkedin.com/in/anvi-radhakrishna-naik-421a0693/
 
